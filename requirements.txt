@@ -1,0 +1,6 @@
+discord.py version 0.16.12 
+python 3.6.7
+colorama 
+asyncio
+VoiceClient
+youtube_dl
