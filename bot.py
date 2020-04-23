@@ -1,4 +1,5 @@
 # Bot by SpankDaPumbkin
+# my discord is KRY.knight#9770
 me = '513936641199570975'
 # {
 import discord  
