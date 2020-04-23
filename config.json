@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "Whatever your token is",
     "bot_id": "524722630868336678",
     "bot_name": "KRY Bot",
     "prefix": ["~", ".", "KRY", "CMD"],
